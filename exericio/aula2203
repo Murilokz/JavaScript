@@ -1,0 +1,13 @@
+
+let numero= parsefloat(prompt("Digite um Numero"))
+
+function minhafunçao(numero){
+  return (numero*numero)
+}
+let x = minhafunçao(numero)
+concole.log
+
+
+
+
+
